@@ -20,4 +20,5 @@ a {
     --font-size: 1.6rem;
     --colore-primario: #0060aa;
     --colore-secondario: #ddd;
+    --font-grande: calc(var(--font-size) * 3);
 }
